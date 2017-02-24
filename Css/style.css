@@ -1,0 +1,33 @@
+#mainContainer {
+    width: auto;
+    height: auto;
+    margin: auto;
+    border: 1px solid red;
+    display: inline-flex;
+}
+span{
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.Box1 {
+    margin: 12px 8px 8px 15px;
+}
+
+.Box2 {
+    margin: 12px 0px 8px 0px;
+    border-right: 1px solid black;
+    padding-right: 8px;
+}
+
+.Box3 {
+    margin: 12px 8px 8px 8px;
+}
+
+.Box4 {
+    margin: 12px 15px 8px 0px;
+}
+
+input {
+    margin-top: 5px;
+}
